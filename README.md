@@ -88,7 +88,7 @@ Built using Streamlit for a responsive and clean UI experience.
 ## Clone Repository
 
 ```bash id="fy35lw"
-git clone YOUR_GITHUB_REPOSITORY_LINK
+https://github.com/aparnatalari/AI-Language-Translator-NLP
 ```
 
 ---
