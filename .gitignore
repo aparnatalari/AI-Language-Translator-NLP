@@ -1,0 +1,11 @@
+voice.mp3
+__pycache__/
+*.pyc
+.streamlit/
+*.bin
+*.safetensors
+*.pth
+*.pt
+dataset/
+*.en
+*.hi
