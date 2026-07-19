@@ -11,7 +11,6 @@ The application provides an interactive web interface, translation history track
 ✅ Real-Time Language Translation
 ✅ NLP-Based Text Processing
 ✅ Interactive Streamlit Web Interface
-✅ Hindi Voice Output using Text-to-Speech
 ✅ Translation History Management
 ✅ AI-Powered User Experience
 ✅ Lightweight & Fast Performance
@@ -69,7 +68,7 @@ Dataset contains:
 
 Instant English-to-Hindi text translation.
 
-## 🔊 Voice Output
+
 
 Translated Hindi text is automatically converted into speech using Text-to-Speech technology.
 
